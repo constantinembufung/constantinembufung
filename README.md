@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @constantinembufung
 - 👀 I’m interested in computer vision and Natural Language Processing
-- 🌱 I’m currently enroll in the AI program at Simplilearn Americas - San Francisco USA
+- 🌱 I’m a Data Scientist with over 3 year working experience
 - 💞️ I’m looking to collaborate with any team or project on Computer Vision, Natural Language Processing using TensorFlow
 - 📫 How to reach me constantinembufung@gmail.com
 
